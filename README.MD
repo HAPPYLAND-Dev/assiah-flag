@@ -13,6 +13,10 @@ HAPPYLAND 服务端通用启动参数
 ## 安装
 直接取代你原本的启动脚本然后 `./Start.sh` 选择服务端文件并回车
 
+## 参考项目
+- https://github.com/etil2jz/etil-minecraft-flags
+- https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/
+
 ```bash
 git clone https://github.com/HAPPYLAND-Dev/assiah-flag
 ```
