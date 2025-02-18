@@ -14,5 +14,5 @@ HAPPYLAND 服务端通用启动参数
 直接取代你原本的启动脚本然后 `./Start.sh` 选择服务端文件并回车
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/HAPPYLAND-Dev/assiah-flag
 ```
